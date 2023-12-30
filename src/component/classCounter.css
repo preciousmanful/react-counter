@@ -1,0 +1,11 @@
+.counter{
+    background: #eaeaea70;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.buttons button{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+}
